@@ -1,6 +1,6 @@
 <h1>Hi, I'm Henrietta! </h1>
 
-<b> Here are some Programs I've made that you can check out</b>
+<b> Here are some programs I've made that you can check out</b>
 
 <h2> Projects:</h2>
 
