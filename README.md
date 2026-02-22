@@ -1,7 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Henrietta! </h1>
+
+<h2> Projects:</h2>
+
+- <b></b>
+
+
+<h2> </h2>
+
+
+
+
+
+
+
+[linkedin]: 
 
 <!--
-**HenriettaEdmonds/HenriettaEdmonds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
