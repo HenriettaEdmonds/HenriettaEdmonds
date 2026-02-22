@@ -1,5 +1,7 @@
 <h1>Hi, I'm Henrietta! </h1>
 
+<b> Here are some Programs I've made that you can check out</b>
+
 <h2> Projects:</h2>
 
 - <b>https://github.com/HenriettaEdmonds/DoublyLinkedList.git</b>
