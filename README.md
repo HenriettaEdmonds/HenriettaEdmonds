@@ -1,5 +1,7 @@
 <h1>Hi, I'm Henrietta! </h1>
 
+<b> I'm an aspiring programmer eager to build knowledge and experience in my feild. I'm currently in my third year pursuing a Computer Science degree at Pace University and actively seeking a Summer 2026 internship. Im passionate about data structures, clean code, and building efficient systems </b>
+
 <b> Here are some programs I've made that you can check out</b>
 
 <h2> Projects:</h2>
