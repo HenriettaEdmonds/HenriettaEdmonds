@@ -4,6 +4,8 @@
 
 - <b>https://github.com/HenriettaEdmonds/DoublyLinkedList.git</b>
 
+- <b>https://github.com/HenriettaEdmonds/LinearSearch.git</b>
+
 
 <h2> </h2>
 
